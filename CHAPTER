@@ -1,0 +1,17 @@
+{
+  "title": "EMBLEM",
+  "description": "<Ruth's journey in the world of magic Emblems>",
+  "artist": "Yasin S",
+  "author": "Yasin S",
+  "cover": "https://i.imgur.com/RAikCFY.png",
+  "chapters": {
+    "1": {
+      "title": "And We're Off!",
+      "volume": "1",
+      "groups": {
+        " ": "/proxy/api/imgur/chapter/K89Hs8C/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
