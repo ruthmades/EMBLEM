@@ -12,8 +12,8 @@
         " ": "/proxy/api/imgur/chapter/K89Hs8C/"
       },
       "last_updated": "1762111216"
-    }
-  "2": {
+    },
+    "2": {
       "title": "The Laundry",
       "volume": "1",
       "groups": {
@@ -21,7 +21,7 @@
       },
       "last_updated": "1762111216"
     },
-  "3": {
+    "3": {
       "title": "Brush!",
       "volume": "1",
       "groups": {
@@ -29,7 +29,7 @@
       },
       "last_updated": "1764988998"
     },
-  "4": {
+    "4": {
       "title": "Showdowns!",
       "volume": "1",
       "groups": {
